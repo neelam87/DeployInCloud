@@ -1,4 +1,4 @@
-package com.mytaxi;
+package com.account;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
